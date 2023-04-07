@@ -1,0 +1,29 @@
+{
+  "_source": {
+    "agent": "Chrome",
+    "bytes": 500,
+    "clientip": "192.168.1.1",
+    "extension": [],
+    "geo": {
+      "cords": {"x": 5, "y": 5}  
+    },
+    "host": "someHost",
+    "index": {},
+    "ip": "192.168.1.53",
+    "machine": "someMachine",
+    "memory": 3000,
+    "message": {
+      "success": "awesome job",
+      "error": "oops, something goes wrong"
+    },
+    "phpmemory": 0,
+    "refer": "./kibana/plugins",
+    "request": {},
+    "response": {},
+    "tags": ["plugin", "youOwnPlugin", "kibana"],
+    "timestamp": "",
+    "url": "",
+    "utc_time": "",
+    "event": ""
+  }
+}
