@@ -4,7 +4,7 @@ describe("recived data", () => {
   const { express, data } = require('../app/app')
 
   let body // declared varible to get them into lifecirle hook
-  const objectKeys = Object.keys(data._source) // get keys _source object from data.json file as axpected keys
+  const objectKeys = Object.keys(data._source) // get keys _source object from data.json file as expected keys
 
   beforeEach(async () => { // lifecircle hook generated new response before each test
     body = (await request(express).get("/")).body
