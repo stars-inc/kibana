@@ -5,7 +5,7 @@ describe('original fn', () => {
     expect(sum).toBeDefined()
   })
 
-  //comment next test for check how coverage works
+  // comment next test for check how coverage works
   // to get 100% coverage uncomment next test
 
   // it('should return correct value', () => {
