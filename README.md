@@ -16,7 +16,7 @@
 
 ## instalation
 ```sh
-git clone kibana
+git clone https://github.com/stars-inc/kibana.git
 ```
 ```sh
 cd kibana
