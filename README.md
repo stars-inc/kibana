@@ -26,13 +26,19 @@ yarn
 ```
 
 ## list npm scripts 
-- ```sh yarn / npm server``` to load http server
-- ```sh yarn / npm test``` to run all test
-- ```sh yarn / npm test:list``` to show all tests 
-- ```sh yarn / npm tests:resolve``` generate file with stats  
-
-## coverage
-![coverage](https://github.com/stars-inc/kibana/blob/develop/assets/coverage.png)
-
-## test-suites 
-![suites](https://github.com/stars-inc/kibana/blob/develop/assets/test-suites.png)
+```sh 
+yarn / npm server
+``` 
+to load http server
+```sh
+yarn / npm test
+```
+to run all test
+```sh
+yarn / npm test:list
+``` 
+to show all tests 
+```sh
+yarn / npm tests:resolve
+``` 
+generate file with stats  
