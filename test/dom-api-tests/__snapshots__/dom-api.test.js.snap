@@ -39,3 +39,43 @@ exports[`fake dom api testing 1 18`] = `"url"`;
 exports[`fake dom api testing 1 19`] = `"utc_time"`;
 
 exports[`fake dom api testing 1 20`] = `"event"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 1`] = `"agent"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 2`] = `"bytes"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 3`] = `"clientip"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 4`] = `"extension"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 5`] = `"geo"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 6`] = `"host"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 7`] = `"index"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 8`] = `"ip"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 9`] = `"machine"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 10`] = `"memory"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 11`] = `"message"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 12`] = `"phpmemory"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 13`] = `"refer"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 14`] = `"request"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 15`] = `"response"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 16`] = `"tags"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 17`] = `"timestamp"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 18`] = `"url"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 19`] = `"utc_time"`;
+
+exports[`fake dom api testing match difference recieved data from data.json 20`] = `"event"`;
