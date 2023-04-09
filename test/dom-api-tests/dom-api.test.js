@@ -7,7 +7,7 @@ describe('fake dom api testing', () => {
 
   const { fetchingData } = require('../../samples/dom/app')
 
-  // NOTE: with fake api jsdom
+  // NOTE: document avalaible with fake api jsdom
   const root = document.createElement('div')
 
   it('dom node is defined', () => {

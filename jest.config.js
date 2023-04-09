@@ -2,6 +2,7 @@
 const config = {
   verbose: true,
   coverageThreshold: {
+    // 100% coverage is required
     './samples/fn.js': {
       branches: 100,
       functions: 100,
