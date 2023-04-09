@@ -1,4 +1,4 @@
-const { sum } = require('../fn')
+const { sum } = require('../samples/fn')
 
 describe('original fn', () => {
   it('to be definaed', () => {
