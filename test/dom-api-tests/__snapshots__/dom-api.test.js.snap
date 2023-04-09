@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fake dom api testing 1 1`] = `"agent"`;
+
+exports[`fake dom api testing 1 2`] = `"bytes"`;
+
+exports[`fake dom api testing 1 3`] = `"clientip"`;
+
+exports[`fake dom api testing 1 4`] = `"extension"`;
+
+exports[`fake dom api testing 1 5`] = `"geo"`;
+
+exports[`fake dom api testing 1 6`] = `"host"`;
+
+exports[`fake dom api testing 1 7`] = `"index"`;
+
+exports[`fake dom api testing 1 8`] = `"ip"`;
+
+exports[`fake dom api testing 1 9`] = `"machine"`;
+
+exports[`fake dom api testing 1 10`] = `"memory"`;
+
+exports[`fake dom api testing 1 11`] = `"message"`;
+
+exports[`fake dom api testing 1 12`] = `"phpmemory"`;
+
+exports[`fake dom api testing 1 13`] = `"refer"`;
+
+exports[`fake dom api testing 1 14`] = `"request"`;
+
+exports[`fake dom api testing 1 15`] = `"response"`;
+
+exports[`fake dom api testing 1 16`] = `"tags"`;
+
+exports[`fake dom api testing 1 17`] = `"timestamp"`;
+
+exports[`fake dom api testing 1 18`] = `"url"`;
+
+exports[`fake dom api testing 1 19`] = `"utc_time"`;
+
+exports[`fake dom api testing 1 20`] = `"event"`;

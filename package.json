@@ -10,11 +10,13 @@
     "server": "nodemon ./server/index",
     "test": "npx jest --coverage",
     "test:list": "npx jest --json --listTests",
-    "tests:resolve": "npx jest --json --outputFile=./output/resoles-tests.json"
+    "tests:resolve": "npx jest --json --outputFile=./output/test-resolved.json"
   },
   "devDependencies": {
     "@types/jest": "^29.5.0",
     "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "jsdom": "^21.1.1",
     "nodemon": "^2.0.22",
     "supertest": "^6.3.3"
   },
